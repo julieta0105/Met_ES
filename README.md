@@ -13,3 +13,10 @@ Clase 1 : 07/08/23
  
  + Crear un proyecto clonado en el repositorio de Gitthub.
  + Realizar la primera sincronizacion del proyecto y la nube (Github)
+ 
+ Actividad # 3 
+ 15/08/023
+ 
+ +Que es la hipotesis 
+ +Tipos de Hipotesis 
+ 
