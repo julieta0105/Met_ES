@@ -16,7 +16,15 @@ Clase 1 : 07/08/23
 <<<<<<< HEAD
  
  
+#clase 3 15/08/23
 
++ Tipos de hipotesis 
++ que es la hipotesis 
 
+#clase #4 21/08/23
++boxplot, medidas de dispercion, medidas de tendencia central
 
+#clase #5 22/08/23
+
++ compilar datos, prueba de t 
 
