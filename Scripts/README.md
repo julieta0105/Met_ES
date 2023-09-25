@@ -33,6 +33,11 @@ Clase 1 : 07/08/23
  ##Clase # 6 28/08/23
  +pruebas independientes
  
- ## clase # 7 055/09/23
+ ## clase # 7 05/09/23
 + prueba de t ejercicio, arboles con y sin tratamiento fertilizante 
+
+##clase #8 25/09/23
+
++correlacion y graficas 
++ identificacion de tipos de correlacion 
  
