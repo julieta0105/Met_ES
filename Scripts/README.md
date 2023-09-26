@@ -39,5 +39,10 @@ Clase 1 : 07/08/23
 ##clase #8 25/09/23
 
 +correlacion y graficas 
-+ identificacion de tipos de correlacion 
++ identificacion de tipos de correlacion }
+
+##clase #9 26/09/23
+
++Ejercicio de correlacion 
+
  
