@@ -45,4 +45,7 @@ Clase 1 : 07/08/23
 
 +Ejercicio de correlacion 
 
+##clase #02/10/23
+
++ test de correlacion 
  
