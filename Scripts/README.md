@@ -45,8 +45,16 @@ Clase 1 : 07/08/23
 
 +Ejercicio de correlacion 
 
-##clase #02/10/23
+##clase 10 #02/10/23
 
 + test de correlacion 
 + entrega de tareas 
+
+##clase 11 09/10/23
+
++ ejercicio de Regresion lineal con los mismos datos 
++trabajar en el mismo script
++obtener el valor de alfa y beta. 
+
+
  
