@@ -22,7 +22,7 @@ Clase 1 : 07/08/23
 + que es la hipotesis 
 
  ##clase #4 21/08/23
-+boxplot, medidas de dispercion, medidas de tendencia central
++ boxplot, medidas de dispercion, medidas de tendencia central
 
  ##clase #5 22/08/23
 
@@ -31,30 +31,37 @@ Clase 1 : 07/08/23
 
 
  ##Clase # 6 28/08/23
- +pruebas independientes
+ + pruebas independientes
  
  ## clase # 7 05/09/23
 + prueba de t ejercicio, arboles con y sin tratamiento fertilizante 
 
-##clase #8 25/09/23
+ ##clase #8 25/09/23
 
-+correlacion y graficas 
++ correlacion y graficas 
 + identificacion de tipos de correlacion }
 
-##clase #9 26/09/23
+ ##clase #9 26/09/23
 
-+Ejercicio de correlacion 
++ Ejercicio de correlacion 
 
-##clase 10 #02/10/23
+ ##clase 10 #02/10/23
 
 + test de correlacion 
 + entrega de tareas 
 
-##clase 11 09/10/23
+ ##clase 11 09/10/23
 
 + ejercicio de Regresion lineal con los mismos datos 
-+trabajar en el mismo script
-+obtener el valor de alfa y beta. 
++ trabajar en el mismo script
++ obtener el valor de alfa y beta. 
+
+ ##clase 12 10/10/23
+
++ Crear un ANOVA
++ PRUEBA DE NORMALIDAD 
++ ENCONTRAR LAS DIFERENCIAS SIGNIFICATIVAS 
+
 
 
  
